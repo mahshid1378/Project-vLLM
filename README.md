@@ -440,14 +440,6 @@ Your sponsorship can help us maintain and improve OpenRLHF. If you find this pro
 
 [![Star History Chart](https://api.star-history.com/svg?repos=OpenRLHF/OpenRLHF&type=Date)](https://star-history.com/#OpenRLHF/OpenRLHF&Date)
 
-## Contributors
-
-A big thank you to all our contributors! If you want to contribute, feel free to make a pull request or create an issue.
-
-<a href="">
-  <img src="https://contrib.rocks/image?repo=OpenRLHF/OpenRLHF" />
-</a>
-
 ## References & Acknowledgements
 
 We would like to express our gratitude to the following projects and organizations for their contributions to the field of AI and NLP:
